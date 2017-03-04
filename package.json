@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "cucumber": "^2.0.0-rc.7"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
   }
 }
